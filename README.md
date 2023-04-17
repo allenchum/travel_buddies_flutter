@@ -1,6 +1,6 @@
-# travel_buddies_flutter
+# TravelBuddies (Flutter)
 
-A new Flutter project.
+A travel partner pairing app build woth Flutter
 
 ## Getting Started
 
